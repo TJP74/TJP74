@@ -1,6 +1,6 @@
-- TJP74 traveling around the world now in my 74th country: Georgia.
+- TJP74 traveling around the world now in my 75th country: Armenia.
 - Multilingual: JP, EN, FR, CH, DE, ESpañol
-- Currently learning, js, react, and typescript to become a front-end developper.
-- In April 2024, my portofolios will be ready to join my first project.
+- Currently learning, js, react, and typescript to become a front-end developer.
+- In April 2024, my portfolio will be ready to join my first project.
 - https://www.instagram.com/tj_polyglot/
 - https://www.youtube.com/@tjpolyglot4660
