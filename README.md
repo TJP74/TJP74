@@ -1,6 +1,4 @@
-- TJP74 traveling around the world now in my 75th country: Armenia.
-- Multilingual: JP, EN, FR, CH, DE, ESpañol
-- Currently learning, js, react, and typescript to become a front-end developer.
-- In April 2024, my portfolio will be ready to join my first project.
-- https://www.instagram.com/tj_polyglot/
+- Front-end developer skilled in JavasScript, TypeScript, and React
+- Multilingual: JP, EN, FR, CH, DE, ESpañol (Visited countries: 75)
+- https://www.linkedin.com/in/takeshi-tajima-157023252/
 - https://www.youtube.com/@tjpolyglot4660
