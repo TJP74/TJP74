@@ -1,3 +1,3 @@
 - Front-end developer skilled in JavasScript, TypeScript, and React
-- Multilingual: JP, EN, FR, CH, DE, ESpañol (Visited countries: 75)
+- Multilingual: Japanese, English, French, Mandarin, German and Spanish (Visited countries: 75)
 - https://www.linkedin.com/in/takeshi-tajima-157023252/
